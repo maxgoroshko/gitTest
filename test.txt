@@ -1,1 +1,10 @@
-test
+In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
+
+$ git remote add origin remote repository URL
+# Sets the new remote
+$ git remote -v
+# Verifies the new remote URL
+Push the changes in your local repository to GitHub.
+
+$ git push origin master
+# Pushes the changes in your local repository up to the remote repository you specified as t
