@@ -1,3 +1,4 @@
+test v.2
 In the Command prompt, add the URL for the remote repository where your local repository will be pushed.
 
 $ git remote add origin remote repository URL
